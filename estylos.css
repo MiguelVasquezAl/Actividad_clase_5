@@ -1,0 +1,19 @@
+section{
+    background: #e28743;
+}
+
+h1{
+    font-size: 20px;
+    font-family: Arial;
+    color: beige;
+}
+
+h2 {
+    font-size: 5rem;
+    text-align: center;
+}
+
+p{
+    text-align: justify ;
+
+}
